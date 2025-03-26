@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 **Sobre Mim**  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **UEPB**, e comecei minha jornada na área de Desenvolvimento de Software em **2023**.  
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIVERSIDADE ESTADUAL DA PARAIBA (UEPB)**, e comecei minha jornada na área de Desenvolvimento de Software em **2023**.  
 Estou desenvolvendo habilidades em **Back-End**, **Front-End**, e **controle de versionamento**.
 
 ---
