@@ -16,7 +16,8 @@ Estou desenvolvendo habilidades em **Back-End**, **Front-End**, e **controle de 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Ferramentas e Versionamento:**  
+- **Frameworks e Ferramentas:**
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -27,6 +28,7 @@ Estou desenvolvendo habilidades em **Back-End**, **Front-End**, e **controle de 
 
 ## 🌱 **O que estou aprendendo atualmente**  
 - **Java  (Back-End)** 🔧
+- - **Spring Boot (Java)** 
 - **Programação Orientada a Objetos (POO)** 📚  
 - **Desenvolvimento Front-End com HTML e CSS** 🎨  
 - **Projetos práticos no GitHub** 💻  
