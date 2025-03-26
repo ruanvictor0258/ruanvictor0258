@@ -29,7 +29,7 @@ Estou desenvolvendo habilidades em **Back-End**, **Front-End**, e **controle de 
 
 ## 🌱 **O que estou aprendendo atualmente**  
 - **Java  (Back-End)** 🔧
-- - **Spring Boot (Java)** 
+- **Spring Boot (Java)** 
 - **Programação Orientada a Objetos (POO)** 📚  
 - **Desenvolvimento Front-End com HTML e CSS** 🎨  
 - **Projetos práticos no GitHub** 💻  
